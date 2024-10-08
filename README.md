@@ -10,7 +10,7 @@ A Discord bot that automatically deletes messages in specified channels to keep 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MessageCleaner.git
+   git clone https://github.com/notstraky/MessageCleaner.git
    cd MessageCleaner
    ```
 2. Install dependencies:
